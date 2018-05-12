@@ -1,4 +1,8 @@
 _repo: Today-is-Forever_50884
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50884-h/images/cover.jpg
 creator:
   author:
     agent_name: Aycock, Roger D.
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25679
     wikipedia: http://en.wikipedia.org/wiki/Roger_Dee
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50884#Today-is-Forever
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-01-09'
 gutenberg_type: Text
